@@ -1,4 +1,10 @@
 
+
+https://github.com/user-attachments/assets/a553b131-d3b8-455c-b024-5e118f4cee56
+
+
+
+
 # 💰 Money Manager App (iOS)
 
 A modern personal finance management application built using **SwiftUI** and **SQLite**. The app helps users track income, expenses, manage categories, and monitor their financial activities through a clean and user-friendly interface.
