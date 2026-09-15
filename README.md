@@ -1,6 +1,7 @@
 
 
-
+# all aplication preview (Line)
+https://drive.google.com/drive/u/0/folders/1Xb_xvGzgZF6vuxMhms4Ypp4D6hUqDO1o
 
 
 # 💰 Money Manager App (iOS)
